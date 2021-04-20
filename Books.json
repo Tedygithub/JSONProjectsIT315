@@ -1,0 +1,15 @@
+{
+  "Books":
+  [
+    {"bookName":"TheAbstainer","pageNum":307 ,"gener":"Historical fiction","descr":"The rebels will be hanged at dawn, and their brotherhood is already plotting revenge. Stephen Doyle, an Irish-American veteran of the Civil War, arrives in Manchester from New York with a thirst for blood","author":  "McGuire, Ian","bookCover":"https://github.com/Tedygithub/JSONProjectsIT315/blob/master/Apeirogon.jpg","onlneResource":"https://browse.nypl.org/iii/encore/record/C__Rb22079575?lang=eng"},
+    {"bookName":"The Aosawa Murders","pageNum":315 ,"gener":"Detective fiction","descr":"In the 1960s 17 people die of cyanide poisoning at a large party at the Aosawas, owners of a prominent clinic in an ancient castle city on the coast of the Sea of Japan","author":  "Onda, Riku","bookCover":"https://raw.githubusercontent.com/Tedygithub/JSONProjectsIT315/master/The%20Aosawa%20Murders.jpg","onlneResource":"https://browse.nypl.org/iii/encore/record/C__Rb22071447?lang=eng"},
+    {"bookName":"Apeirogon","pageNum":463 ,"gener":"Political fiction","descr":"Bassam Aramin is Palestinian. Rami Elhanan is Israeli. They inhabit a world of intractable conflict that colors every aspect of their daily lives, from the roads they are allowed to take to the schools their daughters, Abir and Smadar, each attend","author":  "McCann, Colum","bookCover":"https://raw.githubusercontent.com/Tedygithub/JSONProjectsIT315/master/Apeirogon.jpg","onlneResource":"https://browse.nypl.org/iii/encore/record/C__Rb22034854?lang=eng"},
+    {"bookName":" The Awkward Black Man","pageNum":326 ,"gener":"Fiction","descr":"Bestselling author Walter Mosley has proven himself a master of narrative tension, both with his extraordinary fiction and gripping writing for television","author":  "Mosley, Walter","bookCover":"https://raw.githubusercontent.com/Tedygithub/JSONProjectsIT315/master/TheAwkwardBlack%20Man.jpg","onlneResource":"https://browse.nypl.org/iii/encore/record/C__Rb22251276?lang=eng"},
+    {"bookName":" The Bear","pageNum":221 ,"gener":"Dystopias","descr":"In an Edenic future, a girl and her father live close to the land in the shadow of a lone mountain. They possess a few remnants of civilization: some books, a pane of glass, a set of flint and steel, a comb","author":  "Krivak, Andrew","bookCover":"https://raw.githubusercontent.com/Tedygithub/JSONProjectsIT315/master/TheBear.jpg","onlneResource":"https://browse.nypl.org/iii/encore/record/C__Rb22106670?lang=eng"},
+    {"bookName":" Bestiary","pageNum":221 ,"gener":"Dystopias","descr":"realist fiction"
+        ,"descr":" One evening, Ma tells Daughter a story about a tiger spirit who lived in a woman's body, named Hu Gu Po. She hungered to eat children, especially their toes","author":  "Chang, K-Ming","bookCover":"https://raw.githubusercontent.com/Tedygithub/JSONProjectsIT315/master/Bestiary.jpeg","onlneResource":"https://browse.nypl.org/iii/encore/record/C__Rb22251281?lang=eng"}
+  ],
+  "Status":"OK"
+}
+
+
